@@ -5,6 +5,10 @@ Aplicação web desenvolvida para realizar sorteios de números inteiros dentro 
 
 O projeto foi desenvolvido com HTML, CSS e JavaScript, com foco na aplicação prática dos conceitos fundamentais de programação e manipulação do DOM.
 
+## 🌐 Acesse o projeto
+
+🚀 **[Testar o DevSorteio](https://jpaulost10.github.io/01-sorteador-de-numeros/)**
+
 ## 📸 Demonstração
 
 ![DevSorteio](./imagens/preview.jpeg)
